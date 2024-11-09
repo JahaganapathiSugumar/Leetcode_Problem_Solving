@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [3394-minimum-array-end](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3394-minimum-array-end) |
 ## Prefix Sum
 |  |
 | ------- |
