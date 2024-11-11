@@ -14,11 +14,12 @@ class Solution:
             upper_bound = n - prev
 
             largest_op = 0
-            for i in range(2,upper_bound):
+            for i in reversed(range(2,upper_bound)):
                 if is_prime(i):
                     largest_op = i
+                    break
 
-            if n - largest_op <= prev:
+            if (n - largest_op) <= prev:
                 return False
             prev = n - largest_op
         return True
