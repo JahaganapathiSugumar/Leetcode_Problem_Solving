@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1940-maximum-xor-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [3394-minimum-array-end](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3394-minimum-array-end) |
 ## Prefix Sum
