@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0593-valid-square) |
 | [1236-n-th-tribonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
