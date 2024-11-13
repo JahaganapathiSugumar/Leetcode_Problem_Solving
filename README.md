@@ -23,6 +23,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
@@ -77,4 +80,8 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0593-valid-square) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
