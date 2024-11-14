@@ -32,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
+| [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +93,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
