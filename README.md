@@ -22,6 +22,7 @@
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1940-maximum-xor-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -70,6 +71,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -89,6 +91,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Union Find
 |  |
@@ -102,4 +105,12 @@
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
+## Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
