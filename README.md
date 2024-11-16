@@ -29,6 +29,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1940-maximum-xor-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3394-minimum-array-end) |
 ## Prefix Sum
 |  |
@@ -117,5 +119,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
