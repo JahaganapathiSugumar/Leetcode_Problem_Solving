@@ -29,6 +29,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
