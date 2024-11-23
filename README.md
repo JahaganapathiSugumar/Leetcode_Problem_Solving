@@ -28,6 +28,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1972-rotating-the-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2245-destroying-asteroids](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2245-destroying-asteroids) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1972-rotating-the-box](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Union Find
 |  |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
