@@ -41,6 +41,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -174,4 +175,9 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Graph
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
