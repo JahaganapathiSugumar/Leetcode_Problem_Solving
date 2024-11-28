@@ -10,6 +10,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [1236-n-th-tribonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -115,6 +117,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -135,11 +138,13 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0735-asteroid-collision) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sliding Window
 |  |
