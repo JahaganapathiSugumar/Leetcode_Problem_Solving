@@ -48,6 +48,7 @@
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -135,6 +136,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Union Find
 |  |
 | ------- |
