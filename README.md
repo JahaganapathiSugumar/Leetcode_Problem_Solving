@@ -62,6 +62,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -71,6 +72,7 @@
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1940-maximum-xor-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3394-minimum-array-end) |
 ## Prefix Sum
@@ -156,12 +158,14 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Counting
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
+| [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
