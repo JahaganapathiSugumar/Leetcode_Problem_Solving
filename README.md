@@ -40,6 +40,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2245-destroying-asteroids](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2245-destroying-asteroids) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -145,6 +146,7 @@
 | [1923-sentence-similarity-iii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1972-rotating-the-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -160,6 +162,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0735-asteroid-collision) |
+| [2232-adding-spaces-to-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Breadth-First Search
 |  |
