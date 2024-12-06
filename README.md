@@ -28,6 +28,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0735-asteroid-collision](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0735-asteroid-collision) |
 | [0787-sliding-puzzle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0787-sliding-puzzle) |
+| [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
+| [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1940-maximum-xor-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
@@ -142,6 +144,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0787-sliding-puzzle) |
+| [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2089-maximum-matrix-sum) |
@@ -219,6 +223,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
 | [2232-adding-spaces-to-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Breadth-First Search
