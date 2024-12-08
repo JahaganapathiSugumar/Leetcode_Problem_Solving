@@ -56,6 +56,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -73,6 +74,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 | [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
+| [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
 ## Stack
 |  |
 | ------- |
