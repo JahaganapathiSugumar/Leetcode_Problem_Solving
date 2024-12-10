@@ -4,8 +4,13 @@ class Solution:
             return 0
         if n == 1: return 1
 
-        else:
-            return self.fib(n - 1) + self.fib(n - 2)
+        prev , cur = 0 , 1
+        for _ in range(n - 1):
+            temp = cur
+            cur = prev + cur
+            prev = temp
+
+        return cur
 
 
 
