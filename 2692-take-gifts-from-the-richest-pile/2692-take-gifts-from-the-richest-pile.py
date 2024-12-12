@@ -4,7 +4,7 @@ class Solution:
         while k:
             m = max(gifts)
             i = gifts.index(m)
-            gifts[i] = int(math.sqrt(m))
+            gifts[i] = int(m ** 0.5)
             k -= 1
 
         return sum(gifts)
