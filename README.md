@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -104,6 +106,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -184,6 +187,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
