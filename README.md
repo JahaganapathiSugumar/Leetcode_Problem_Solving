@@ -66,6 +66,7 @@
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -116,6 +117,7 @@
 | [2245-destroying-asteroids](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2245-destroying-asteroids) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Union Find
 |  |
 | ------- |
