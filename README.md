@@ -228,6 +228,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -250,6 +251,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
@@ -326,4 +328,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1086-divisor-game) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
