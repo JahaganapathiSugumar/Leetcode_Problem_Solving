@@ -327,6 +327,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0904-leaf-similar-trees) |
 | [2201-valid-arrangement-of-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -365,6 +366,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,4 +379,5 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
