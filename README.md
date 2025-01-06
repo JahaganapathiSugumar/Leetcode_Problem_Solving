@@ -290,6 +290,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0101-symmetric-tree) |
 | [0787-sliding-puzzle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -314,6 +315,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [2201-valid-arrangement-of-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
@@ -345,12 +347,14 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
