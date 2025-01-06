@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0735-asteroid-collision) |
@@ -316,6 +317,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -350,6 +352,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -359,6 +362,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
