@@ -230,6 +230,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0874-backspace-string-compare) |
@@ -309,6 +310,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [2201-valid-arrangement-of-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -335,4 +337,12 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
