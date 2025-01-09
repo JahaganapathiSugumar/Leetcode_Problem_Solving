@@ -70,6 +70,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -223,6 +224,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0572-subtree-of-another-tree) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Recursion
 |  |
 | ------- |
@@ -397,4 +400,13 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
