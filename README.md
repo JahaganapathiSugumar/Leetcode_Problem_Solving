@@ -9,6 +9,7 @@
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
+| [2630-alternating-digit-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2630-alternating-digit-sum) |
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
