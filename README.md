@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
@@ -182,6 +183,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
