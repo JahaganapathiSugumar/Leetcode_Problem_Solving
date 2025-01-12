@@ -9,7 +9,6 @@ class Solution {
             }
 
             else{
-                res = Math.max(c,res);
                 c = 0;
             }
             res = Math.max(c,res);
