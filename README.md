@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
+| [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
@@ -37,6 +38,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0485-max-consecutive-ones) |
@@ -260,6 +262,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
