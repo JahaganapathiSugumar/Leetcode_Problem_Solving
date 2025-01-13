@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0029-divide-two-integers) |
 | [0273-integer-to-english-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0273-integer-to-english-words) |
 | [0593-valid-square](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0593-valid-square) |
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
@@ -104,6 +105,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
