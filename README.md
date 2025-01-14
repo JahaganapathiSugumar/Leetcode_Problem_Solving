@@ -212,6 +212,7 @@
 | [1923-sentence-similarity-iii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1972-rotating-the-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 | [2698-find-the-array-concatenation-value](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2698-find-the-array-concatenation-value) |
@@ -442,4 +443,5 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
