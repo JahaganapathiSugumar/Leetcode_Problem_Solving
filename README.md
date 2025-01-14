@@ -105,6 +105,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 | [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
 | [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
