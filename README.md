@@ -38,6 +38,7 @@
 | [0068-text-justification](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
@@ -175,6 +176,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [2089-maximum-matrix-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2089-maximum-matrix-sum) |
