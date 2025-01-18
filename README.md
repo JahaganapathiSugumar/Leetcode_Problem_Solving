@@ -244,6 +244,7 @@
 | [0541-reverse-string-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0886-score-of-parentheses) |
 | [0953-reverse-only-letters](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -277,6 +278,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0886-score-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
