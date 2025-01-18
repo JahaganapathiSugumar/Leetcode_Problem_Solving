@@ -458,4 +458,8 @@
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
