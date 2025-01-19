@@ -11,6 +11,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1635-number-of-good-pairs) |
 | [2630-alternating-digit-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2630-alternating-digit-sum) |
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -57,6 +58,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1635-number-of-good-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1635-number-of-good-pairs) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1833-find-the-highest-altitude) |
@@ -104,6 +106,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1635-number-of-good-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -265,6 +268,7 @@
 | [0383-ransom-note](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
 | [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
