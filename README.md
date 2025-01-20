@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0273-integer-to-english-words) |
 | [0593-valid-square](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0593-valid-square) |
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
@@ -100,6 +101,7 @@
 | [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0575-distribute-candies) |
@@ -208,6 +210,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0557-reverse-words-in-a-string-iii) |
