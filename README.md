@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0273-integer-to-english-words) |
 | [0593-valid-square](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0593-valid-square) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
@@ -29,6 +31,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Array
