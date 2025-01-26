@@ -24,6 +24,7 @@
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
@@ -46,6 +47,7 @@
 | [0068-text-justification](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
