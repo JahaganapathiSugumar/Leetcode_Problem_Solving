@@ -249,6 +249,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0068-text-justification) |
@@ -287,6 +288,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0144-binary-tree-preorder-traversal) |
