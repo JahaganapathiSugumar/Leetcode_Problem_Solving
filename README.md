@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0273-integer-to-english-words) |
@@ -45,6 +46,7 @@
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0118-pascals-triangle) |
