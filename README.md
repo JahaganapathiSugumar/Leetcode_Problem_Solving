@@ -60,6 +60,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0463-island-perimeter) |
@@ -234,6 +235,7 @@
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0541-reverse-string-ii) |
