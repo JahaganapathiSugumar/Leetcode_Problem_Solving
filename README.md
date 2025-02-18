@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0118-pascals-triangle) |
@@ -273,6 +274,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0127-word-ladder) |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
