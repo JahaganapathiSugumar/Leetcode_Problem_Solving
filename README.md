@@ -27,6 +27,7 @@
 | [0032-longest-valid-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0119-pascals-triangle-ii) |
@@ -52,6 +53,7 @@
 | [0047-permutations-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0068-text-justification) |
@@ -222,6 +224,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
