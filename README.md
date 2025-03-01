@@ -101,6 +101,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
+| [2551-apply-operations-to-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -267,6 +268,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
+| [2551-apply-operations-to-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -389,6 +391,7 @@
 | [2048-build-array-from-permutation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2551-apply-operations-to-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2698-find-the-array-concatenation-value) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
