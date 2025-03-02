@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0168-excel-sheet-column-title) |
@@ -28,6 +29,7 @@
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0119-pascals-triangle-ii) |
@@ -526,4 +528,8 @@
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0610-triangle-judgement) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
