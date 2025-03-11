@@ -61,6 +61,7 @@
 | [0056-merge-intervals](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0118-pascals-triangle) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -383,6 +385,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0787-sliding-puzzle) |
 | [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
