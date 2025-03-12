@@ -108,6 +108,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2698-find-the-array-concatenation-value) |
@@ -229,6 +230,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
@@ -333,6 +335,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2427-first-letter-to-appear-twice) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
