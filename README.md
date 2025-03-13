@@ -63,6 +63,7 @@
 | [0068-text-justification](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0119-pascals-triangle-ii) |
@@ -217,6 +218,7 @@
 | [0037-sudoku-solver](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [0032-longest-valid-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0171-excel-sheet-column-number) |
@@ -389,6 +392,7 @@
 | [0036-valid-sudoku](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0787-sliding-puzzle) |
 | [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
@@ -448,6 +452,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0101-symmetric-tree) |
