@@ -56,6 +56,7 @@
 | [0036-valid-sudoku](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
@@ -139,6 +140,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
