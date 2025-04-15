@@ -566,6 +566,7 @@
 | [0577-employee-bonus](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0577-employee-bonus) |
 | [0610-triangle-judgement](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1153-product-sales-analysis-i) |
 ## Combinatorics
 |  |
