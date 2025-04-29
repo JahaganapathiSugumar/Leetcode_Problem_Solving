@@ -78,6 +78,7 @@
 | [0169-majority-element](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
@@ -146,6 +147,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -197,6 +199,7 @@
 | [0056-merge-intervals](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
