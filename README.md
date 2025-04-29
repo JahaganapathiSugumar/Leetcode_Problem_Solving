@@ -146,6 +146,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0389-find-the-difference) |
@@ -196,6 +197,7 @@
 | [0056-merge-intervals](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
@@ -315,6 +317,7 @@
 | [0127-word-ladder](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0383-ransom-note) |
