@@ -166,6 +166,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
