@@ -81,6 +81,7 @@
 | [0198-house-robber](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
@@ -150,6 +151,7 @@
 | [0169-majority-element](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -390,6 +392,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1755-defuse-the-bomb) |
