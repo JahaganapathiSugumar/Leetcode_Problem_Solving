@@ -94,6 +94,7 @@
 | [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0907-koko-eating-bananas) |
+| [0932-monotonic-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
