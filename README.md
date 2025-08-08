@@ -12,6 +12,7 @@
 | [0168-excel-sheet-column-title](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0273-integer-to-english-words) |
 | [0593-valid-square](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0593-valid-square) |
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
@@ -85,6 +86,7 @@
 | [0217-contains-duplicate](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
@@ -157,6 +159,7 @@
 | [0217-contains-duplicate](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0389-find-the-difference) |
@@ -181,6 +184,7 @@
 | [0029-divide-two-integers](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -211,6 +215,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
@@ -251,6 +256,7 @@
 | [0074-search-a-2d-matrix](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
