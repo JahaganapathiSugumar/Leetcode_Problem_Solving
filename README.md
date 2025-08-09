@@ -12,6 +12,7 @@
 | [0168-excel-sheet-column-title](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0273-integer-to-english-words) |
 | [0593-valid-square](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0593-valid-square) |
@@ -184,6 +185,7 @@
 | [0029-divide-two-integers](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
@@ -518,6 +520,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Brainteaser
