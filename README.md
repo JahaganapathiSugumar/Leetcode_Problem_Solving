@@ -100,6 +100,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0932-monotonic-array) |
+| [0990-verifying-an-alien-dictionary](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0990-verifying-an-alien-dictionary) |
 | [1018-largest-perimeter-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -165,6 +166,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0575-distribute-candies) |
+| [0990-verifying-an-alien-dictionary](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0990-verifying-an-alien-dictionary) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -349,6 +351,7 @@
 | [0874-backspace-string-compare](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0886-score-of-parentheses) |
 | [0953-reverse-only-letters](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0953-reverse-only-letters) |
+| [0990-verifying-an-alien-dictionary](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0990-verifying-an-alien-dictionary) |
 | [1297-maximum-number-of-balloons](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1297-maximum-number-of-balloons) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1923-sentence-similarity-iii) |
