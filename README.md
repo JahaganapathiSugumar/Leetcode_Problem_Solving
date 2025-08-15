@@ -15,6 +15,7 @@
 | [0231-power-of-two](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0342-power-of-four) |
 | [0593-valid-square](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0593-valid-square) |
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
@@ -189,6 +190,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0861-flipping-an-image) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -525,6 +527,7 @@
 | [0206-reverse-linked-list](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
