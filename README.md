@@ -21,6 +21,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
+| [1448-maximum-69-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1635-number-of-good-pairs) |
 | [2630-alternating-digit-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2630-alternating-digit-sum) |
 | [2716-prime-subtraction-operation](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2716-prime-subtraction-operation) |
@@ -280,6 +281,7 @@
 | [0135-candy](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/1448-maximum-69-number) |
 | [2089-maximum-matrix-sum](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2245-destroying-asteroids](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/2245-destroying-asteroids) |
