@@ -341,6 +341,7 @@
 | [0022-generate-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/JahaganapathiSugumar/Leetcode_Problem_Solving/tree/master/0127-word-ladder) |
